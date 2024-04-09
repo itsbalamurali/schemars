@@ -89,3 +89,6 @@ mod uuid08;
 #[cfg(feature = "uuid1")]
 mod uuid1;
 mod wrapper;
+
+#[cfg(feature = "cbor")]
+mod cbor;
