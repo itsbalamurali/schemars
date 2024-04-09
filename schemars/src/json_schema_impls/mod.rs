@@ -90,5 +90,4 @@ mod uuid08;
 mod uuid1;
 mod wrapper;
 
-#[cfg(feature = "cbor")]
 mod cbor;
